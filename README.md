@@ -12,3 +12,5 @@ Nathan - What's 1 + 1 ?
 Chamarr - hey Nathan, 1 + 1 = 2. Akihl what is 5 * 5 ?
 Akhil - Who is your favorite artist?
 Raunak - I like all of themg
+
+raj: i am hungry
