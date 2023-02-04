@@ -1,2 +1,2 @@
 # githubpractice-1
-ting
+hi im how are you 
